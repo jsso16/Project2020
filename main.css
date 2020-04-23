@@ -1,6 +1,6 @@
 /*
-  * File Name : main.css v0.3.0
-  * Update : 2020.04.10
+  * File Name : main.css v0.4.0
+  * Update : 2020.04.23
   * Author : 전소진
 */
 
@@ -41,6 +41,12 @@ ul li a {
     background-color: rgb(176, 224, 230);
     text-align: center;
 }
+.article-bg2 {
+    height: 550px;
+    padding: 15px;
+    background-color: rgb(204, 153, 225);
+    text-align: center;
+}
 
 /* box model test */
 .box1 {
@@ -71,4 +77,28 @@ ul li a {
     background-color: beige;
     border: 10px solid mediumaquamarine;
     box-shadow: 10px 10px 5px 5px darkslategrey;
+}
+
+/* 멀티미디어 연습 */
+.img-size1 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+.img-size2 {
+    width: 200px;
+    height: 120px;
+    margin: 20px;
+}
+.b-radius1 {
+    border-radius: 10%;
+}
+.b-radius2 {
+    border-radius: 25%;
+}
+.b-radius3 {
+    border-radius: 50%;
+}
+.b-radius4 {
+    border-radius: 100%;
 }
