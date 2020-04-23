@@ -1,5 +1,5 @@
 /*
-  * File Name : main.css v0.4.0
+  * File Name : main.css v0.5.0
   * Update : 2020.04.23
   * Author : 전소진
 */
@@ -42,9 +42,21 @@ ul li a {
     text-align: center;
 }
 .article-bg2 {
+    height: 540px;
+    padding: 15px;
+    background-color: rgb(204, 153, 225); 
+    text-align: center;
+}
+.article-bg3 {
+    height: 350px;
+    padding: 15px;
+    background-color: rgb(000, 102, 153);
+    text-align: center;
+}
+.article-bg4 {
     height: 550px;
     padding: 15px;
-    background-color: rgb(204, 153, 225);
+    background-color: rgb(120, 231, 125);    
     text-align: center;
 }
 
