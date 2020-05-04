@@ -1,4 +1,11 @@
 # Project2020 - 전소진
+## 05월 04일 테이블 태그 연습
+> 메뉴에 구글 웹폰트 적용<br>
+css grid 연습<br>
+header에 Full screen background 적용<br>
+Parallax Scrolling 기법 적용<br>
+Ghost Button 만들기 연습
+
 ## 04월 27일 테이블 태그 연습
 > table tag 연습 <br>
 
