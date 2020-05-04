@@ -29,7 +29,8 @@ ul li {
 
 ul li a {
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-family: 'Gamja Flower', cursive;
+    font-size: 23px;
     font-weight: bold;
     text-decoration: none;
 }
