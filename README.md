@@ -1,5 +1,5 @@
 # Project2020 - 전소진
-## 05월 04일 테이블 태그 연습
+## 05월 04일 여러 가지 연습
 > 메뉴에 구글 웹폰트 적용<br>
 css grid 연습<br>
 header에 Full screen background 적용<br>
