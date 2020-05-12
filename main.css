@@ -352,3 +352,13 @@ tfoot {
 div > div { 
     text-align: center; 
 }
+
+/* footer */
+footer {
+    height: 40px;
+    background: rgb(50, 50, 50);
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 10px;
+    text-align: left;
+}
