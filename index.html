@@ -1,6 +1,6 @@
 <!--
-  * File Name : index.html v0.7.0
-  * Update : 2020.05.04
+  * File Name : index.html v0.8.0
+  * Update : 2020.05.12
   * Author : 전소진
 -->
 <!DOCTYPE html>
@@ -14,9 +14,27 @@
     <!-- CSS의 외부 적용 방식 -->
     <link rel="stylesheet" href="main.css">
     <!-- 구글 웹폰트 삽입 -->
-    <link href="./font/GamjaFlower-Regular.ttf">
+    <link href="https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap" rel="stylesheet">
 </head>
 <body>
+ <nav class="menu">   
+  <ul>
+   <li class="logo">전소진</li>
+    <li><a href="#">One Page Menu</a>
+     <ul>
+      <li><a href="#box">박스 모델</a></li>
+      <li><a href="#image">image 태그</a></li>
+      <li><a href="#sound">audio, video 태그</a></li>
+      <li><a href="#youtube">youtube 동영상</a></li>
+      <li><a href="#table">테이블</a></li>
+      <li><a href="#grid">CSS Grid</a></li>
+     </ul>
+    </li>
+    <li><a href="#">메뉴1</a></li>
+    <li><a href="#">메뉴2</a></li>
+    <li><a href="#">메뉴3</a></li>
+  </ul>
+ </nav>
  <header class="full-bg">
   <div class="container">
    <div class="header-title">
@@ -29,16 +47,8 @@
    </div>
   </div>
  </header>  
- <nav>
-     <ul>
-         <li class="logo">전소진</li>
-         <li><a href="#">메뉴1</a></li>
-         <li><a href="#">메뉴2</a></li>
-         <li><a href="#">메뉴3</a></li>
-     </ul>
- </nav>
  <article class="article-bg1">
-     <h1>4월 10일 박스모델 연습</h1>
+     <h1 id="box">4월 10일 박스모델 연습</h1>
      <section>
          <div class="box1">박스1</div>
          <div class="box2">박스2</div>
@@ -47,7 +57,7 @@
  </article>
  <article class="article-bg2">
      <h1>4월 23일 멀티미디어 태그 연습</h1>
-     <h2>img tag 연습</h2>
+     <h2 id="image">img tag 연습</h2>
     <section>
         <img class="img-size1" src="./images/cat-111793_640.jpg" alt="들판 위에 앉아있는 고양이 사진">
         <img class="img-size1 b-radius1" src="./images/cat-111793_640.jpg" alt="들판 위에 앉아있는 고양이 사진">
@@ -63,7 +73,7 @@
     </section>
 </article>
 <article class="article-bg3">
-    <h2>audio, video tag 연습</h2>
+    <h2 id="sound">audio, video tag 연습</h2>
     <section>
         <audio controls>
             <source src="https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3">
@@ -78,13 +88,13 @@
     </section>
 </article>
 <article class="article-bg4">
-    <h2>유튜브 동영상 삽입 연습</h2>
+    <h2 id="youtube">유튜브 동영상 삽입 연습</h2>
     <section>
         <iframe width="789" height="444" src="https://www.youtube.com/embed/xQMQAKc9f9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </section>
 </article>
 <article class="article-bg5">
-    <h1>4월 27일 테이블 연습</h1>
+    <h1 id="table">4월 27일 테이블 연습</h1>
     <section>
       <table>
         <colgroup>
@@ -130,7 +140,7 @@
     </section>
 </article>
 <article class="article-bg6">
-  <h1>5월 4일 CSS Grid 연습</h1>
+  <h1 id="grid">5월 4일 CSS Grid 연습</h1>
   <div class="grid-container">
     <div class="grid-cell1">1</div>
     <div class="grid-cell2">2</div>
@@ -144,7 +154,7 @@
     <div class="grid-cell10">10</div>
   </div>
 </article>
- <aside>어사이드 영역</aside>
- <footer>여기는 바닥 영역</footer>
+<footer>Copyright &copy; 2020. Jeon Sojin. All rights reserved.</footer>
+</footer>
 </body>
 </html>
