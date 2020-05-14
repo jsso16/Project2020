@@ -3,17 +3,10 @@
 > 새로운 html파일 생성 및 두번째 mean menu에 링크 삽입
 
 ## 05월 12일 실습 내용
-<<<<<<< HEAD
-> 홈페이지 상단에 메뉴 고정<br>
-Dropdown 메뉴 생성<br>
-Anchor tag 이용하여 메뉴 클릭시 알맞은 위치로 이동<br>
-footer 수정
-=======
 > main menu 페이지 상단에 fix시키기 실습 <br>
 Dropdown 메뉴 생성 <br>
 Anchor 이용하여 각 메뉴 클릭시 해당 article로 이동하게 수정 작업 <br>
 footer에 copyright 작성 <br>
->>>>>>> v0.9.0
 
 ## 05월 04일 여러 가지 연습
 > 메뉴에 구글 웹폰트 적용 <br>
