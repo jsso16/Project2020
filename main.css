@@ -217,6 +217,44 @@ menu li ul{
     text-align: center;
 }
 
+/* bootstrap article background */
+.article-bg7 {
+    height: 600px;
+    padding: 15px;
+    background-color: rgb(176, 224, 230);
+    text-align: center;
+}
+.article-bg8 {
+    height: 350px;
+    padding: 15px;
+    background-color: rgb(204, 153, 225); 
+    text-align: center;
+}
+.article-bg9 {
+    height: 400px;
+    padding: 15px;
+    background-color: rgb(000, 102, 153);
+    text-align: center;
+}
+.article-bg10 {
+    height: 350px;
+    padding: 15px;
+    background-color: rgb(120, 231, 125);    
+    text-align: center;
+}
+.article-bg11 {
+    height: 150px;
+    padding: 15px;
+    background-color: rgb(255, 204, 204);    
+    text-align: center;
+}
+.article-bg12 {
+    height: 300px;
+    padding: 15px;
+    background-color: rgb(194, 198, 255);
+    text-align: center;
+}
+
 /* box model test */
 .box1 {
     display: inline-block;
@@ -361,4 +399,10 @@ footer {
     padding-top: 20px;
     padding-left: 10px;
     text-align: left;
+}
+
+/* article width */
+.width-50 {
+    width: 50%;
+    margin-left: 25%;
 }
