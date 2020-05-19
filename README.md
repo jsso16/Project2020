@@ -1,4 +1,7 @@
 # Project2020 - 전소진
+## 05월 19일 실습 내용
+> Bootstrap 이용하여 Component 5가지 이상 연습
+
 ## 05월 14일 실습 내용
 > 새로운 html파일 생성 및 두번째 mean menu에 링크 삽입
 
