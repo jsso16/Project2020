@@ -1,6 +1,6 @@
 /*
-  * File Name : main.css v0.9.0
-  * Update : 2020.05.14
+  * File Name : main.css v0.10.0
+  * Update : 2020.05.21
   * Author : 전소진
 */
 
@@ -219,7 +219,7 @@ menu li ul{
 
 /* bootstrap article background */
 .article-bg7 {
-    height: 600px;
+    height: 620px;
     padding: 15px;
     background-color: rgb(176, 224, 230);
     text-align: center;
@@ -231,29 +231,48 @@ menu li ul{
     text-align: center;
 }
 .article-bg9 {
-    height: 400px;
+    height: 420px;
     padding: 15px;
     background-color: rgb(000, 102, 153);
     text-align: center;
 }
 .article-bg10 {
-    height: 350px;
+    height: 360px;
     padding: 15px;
     background-color: rgb(120, 231, 125);    
     text-align: center;
 }
 .article-bg11 {
-    height: 150px;
+    height: 140px;
     padding: 15px;
     background-color: rgb(255, 204, 204);    
     text-align: center;
 }
 .article-bg12 {
-    height: 300px;
+    height: 320px;
     padding: 15px;
     background-color: rgb(194, 198, 255);
     text-align: center;
 }
+.article-bg13 {
+    height: 150px;
+    padding: 15px;
+    background-color: rgb(176, 224, 230);
+    text-align: center;
+}
+.article-bg14 {
+    height: 120px;
+    padding: 15px;
+    background-color: rgb(204, 153, 225); 
+    text-align: center;
+}
+.article-bg15 {
+    height: 240px;
+    padding: 15px;
+    background-color: rgb(204, 255, 153); 
+    text-align: center;
+}
+
 
 /* box model test */
 .box1 {
@@ -405,4 +424,15 @@ footer {
 .width-50 {
     width: 50%;
     margin-left: 25%;
+}
+
+/* bootstrap footer */
+.ftr {
+    height: 40px;
+    background: rgb(50, 50, 50);
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    text-align: left;
 }

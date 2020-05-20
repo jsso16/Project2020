@@ -1,6 +1,11 @@
 # Project2020 - 전소진
+## 05월 21일 실습 내용
+> header를 Carousel로 작업하고 이미지 삽입 <br>
+한 article에 아이콘 삽입 <br>
+SGV 아이콘 이용하여 다양한 변형 작업 및 별도의 article에 삽입
+
 ## 05월 19일 실습 내용
-> Bootstrap 이용하여 Component 5가지 이상 연습
+> Bootstrap 이용하여 Component 5가지 이상 연습 및 bootstrap page의 각 article에 삽입
 
 ## 05월 14일 실습 내용
 > 새로운 html파일 생성 및 두번째 mean menu에 링크 삽입
