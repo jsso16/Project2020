@@ -1,5 +1,5 @@
 /*
-  * File Name : main.css v0.10.0
+  * File Name : main.css v0.11.0
   * Update : 2020.05.21
   * Author : 전소진
 */
@@ -272,7 +272,6 @@ menu li ul{
     background-color: rgb(204, 255, 153); 
     text-align: center;
 }
-
 
 /* box model test */
 .box1 {

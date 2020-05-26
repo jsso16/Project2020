@@ -1,5 +1,9 @@
 # Project2020 - 전소진
 ## 05월 21일 실습 내용
+> dom01 ~ dom08.html 생성(javascript 연습) <br>
+Dom menu 생성 및 링크 삽입<br>
+
+## 05월 21일 실습 내용
 > header를 Carousel로 작업하고 이미지 삽입 <br>
 한 article에 아이콘 삽입 <br>
 SGV 아이콘 이용하여 다양한 변형 작업 및 별도의 article에 삽입
