@@ -1,7 +1,10 @@
 # Project2020 - 전소진
-## 05월 21일 실습 내용
+## 05월 27일 실습 내용
+> Dom menu 이름을 Dom 연습으로 수정
+
+## 05월 26일 실습 내용
 > dom01 ~ dom08.html 생성(javascript 연습) <br>
-Dom menu 생성 및 링크 삽입<br>
+Dom menu 드롭다운으로 생성 및 html 링크 삽입<br>
 
 ## 05월 21일 실습 내용
 > header를 Carousel로 작업하고 이미지 삽입 <br>
